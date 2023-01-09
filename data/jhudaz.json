@@ -1,0 +1,19 @@
+{
+  "name": "Jaime Andres Velez",
+  "displayStatsPublic": true,
+  "type": "personal",
+  "bio": "Frontend Developer, Web UI/UX, Gamer, a ping pong master ",
+  "avatar": "https://github.com/jhudaz.png",
+  "links": [
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/jaimeandresvel7",
+      "icon": "FaTwitter"
+    },
+    {
+      "name": "Add me on LinkedIn",
+      "url": "https://www.linkedin.com/in/jaime-andres-velez-rojas/",
+      "icon": "FaLinkedin"
+    }
+  ]
+}
